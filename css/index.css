@@ -281,7 +281,19 @@ a {
 	border-bottom: 10px solid white;
 }
 
-/* ==================== MY STORY ==================== */
+/* ==================== MORE ABOUT ME ==================== */
+.more-links {
+	text-align: center;
+}
+
+.more-link {
+	margin-top: 50px;
+}
+
+.link-icon {
+	margin-right: 5px;
+	margin-bottom: -8px;
+}
 
 .madeby {
 	padding-top: 10%;
