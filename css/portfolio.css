@@ -15,12 +15,13 @@
 	background: white;
 }
 
-.textbox h3, .textbox h4 {
-	text-align: center;
+.portfolio-type {
+	font-size: 90%;
 }
 
-.textbox h4 {
+.textbox h2 {
 	font-size: 90%;
+
 }
 
 .textbox p {
